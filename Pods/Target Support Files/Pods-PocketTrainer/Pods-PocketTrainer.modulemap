@@ -1,0 +1,6 @@
+framework module Pods_PocketTrainer {
+  umbrella header "Pods-PocketTrainer-umbrella.h"
+
+  export *
+  module * { export * }
+}
